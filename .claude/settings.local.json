@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__5e356969-9a9d-4fde-99f6-bd93aae0a209__list_tables",
+      "mcp__5e356969-9a9d-4fde-99f6-bd93aae0a209__list_migrations",
+      "mcp__5e356969-9a9d-4fde-99f6-bd93aae0a209__list_edge_functions",
+      "mcp__5e356969-9a9d-4fde-99f6-bd93aae0a209__list_extensions",
+      "mcp__5e356969-9a9d-4fde-99f6-bd93aae0a209__get_project",
+      "mcp__5e356969-9a9d-4fde-99f6-bd93aae0a209__search_docs",
+      "mcp__5e356969-9a9d-4fde-99f6-bd93aae0a209__get_project_url",
+      "mcp__5e356969-9a9d-4fde-99f6-bd93aae0a209__get_publishable_keys"
+    ]
+  }
+}
